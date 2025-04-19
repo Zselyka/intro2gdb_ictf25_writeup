@@ -1,2 +1,2 @@
-# intro2gdb_ictf25_writeup.md
+# intro2gdb_ictf25_writeup
 EmoleFamilyDoor
